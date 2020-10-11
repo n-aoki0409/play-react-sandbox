@@ -3,6 +3,7 @@ logs
 target
 project/project
 project/target
+public/javascripts/build
 target
 RUNNING_PID
 node_modules

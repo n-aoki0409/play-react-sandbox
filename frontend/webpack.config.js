@@ -28,7 +28,7 @@ module.exports = {
   },
   resolve: { extensions: ["*", ".js", ".jsx"] },
   output: {
-    path: path.resolve("../public", "javascripts/"),
+    path: path.resolve("../public", "javascripts/build/"),
     publicPath: "/",
     filename: "[name]",
   },
